@@ -1,7 +1,7 @@
 # How to
 - clone the repo
 
-  `git clone https://github.com/husain-alsaeed/actionstest.git`
+  `git clone https://github.com/husain-alsaeed/chat-webapp-demo.git`
 
 ## Redis Server
 - run `redisServer.sh` as root (sudo).
